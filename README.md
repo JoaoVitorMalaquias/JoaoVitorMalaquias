@@ -1,6 +1,7 @@
 ### Olá, Me chamo João Vitor Malaquias,sou um estudante de Sistemas de Informação(NOT) na PUC CAMPINAS. Terminei meu ensino técnico integrado ao médio em Analise de Desenvolvimento de Sistemas (ADS) pela ETEC Nova Odessa .
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaovitormalaquias15@gmail.com)
+### E-mail: joaovitormalaquias15@gmail.com
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-malaquias/)
 
 ![Joao Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorMalaquias&show_icons=true&theme=dark)
