@@ -13,12 +13,12 @@
 
 ## 👤 Sobre mim
 
-Estudante de **Sistemas de Informação na PUC Campinas**, com formação técnica em **Análise e Desenvolvimento de Sistemas pela ETEC Nova Odessa**. Apaixonado por transformar problemas reais em soluções de software — atualmente estudando visão computacional, automação e integração com serviços em nuvem.
+Estudante de **Sistemas de Informação na PUC Campinas**, com formação técnica em **Análise e Desenvolvimento de Sistemas pela ETEC Nova Odessa**. Apaixonado por transformar problemas reais em soluções de software — atualmente estudando visão computacional, automação e integração com serviços em nuvem, o velho e novo DEVOPS.
 Faço estágio em Data Center e Cloud, utilizando muito Nutanix, SAP, VMware, administração de backup
 
 - 🎓 Técnico em ADS — ETEC Nova Odessa
 - 📚 Graduando em Sistemas de Informação — PUC Campinas
-- 💼 Focado em projetos com **Python, Computer Vision e Cloud**
+- 💼 Focado em projetos com **Python, Computer Vision e Cloud** e consequentemente DEVOPS
 - 📍 Sumaré, Brasil
 
 ---
