@@ -71,8 +71,8 @@ Sistema de detecção de tomates através de imagens com YOLO.
 `Python` `YOLOv8` `Computer Vision`
 
 ### 🎧 KaraokeMax
-Sistema de detecção de pitch para um karaoke, utilizando modelos especializados no caso (CREPE).
-`Python` 
+Sistema de detecção de pitch para um karaoke, utilizando modelos já treinados para trabalhar no desenvolvimento do projeto.
+`Python` `Librosa` `Deemucs` 
 
 ---
 
