@@ -45,7 +45,7 @@ Faço estágio em Data Center e Cloud, utilizando muito Nutanix, SAP, VMware, ad
 
 <div align="center">
 
-![João Vitor GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorMalaquias&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+![GitHub Streak](https://streak-stats.demolab.com?user=JoaoVitorMalaquias&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorMalaquias&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
@@ -55,12 +55,15 @@ Faço estágio em Data Center e Cloud, utilizando muito Nutanix, SAP, VMware, ad
 
 ## 🚀 Projetos em destaque
 
-> Em breve — projetos sendo documentados aqui.
 
 
 ### 🔍 Vision Guard IA
 Sistema de detecção de EPIs em tempo real com YOLO, integração com S3 e API Gateway.
 `Python` `YOLOv8` `OpenCV` `AWS S3` `Computer Vision`
+
+### TomatoBot
+Sistema de detecção de tomates através de imagens com YOLO.
+`Python` `YOLOv8` `Computer Vision`
 
 
 ---
