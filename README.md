@@ -66,10 +66,13 @@ Faço estágio em Data Center e Cloud, utilizando muito Nutanix, SAP, VMware, ad
 Sistema de detecção de EPIs em tempo real com YOLO, integração com S3 e API Gateway.
 `Python` `YOLOv8` `OpenCV` `AWS S3` `Computer Vision`
 
-### TomatoBot
+### 🍅 TomatoBot
 Sistema de detecção de tomates através de imagens com YOLO.
 `Python` `YOLOv8` `Computer Vision`
 
+### 🎧 KaraokeMax
+Sistema de detecção de pitch para um karaoke, utilizando modelos especializados no caso (CREPE).
+`Python` 
 
 ---
 
